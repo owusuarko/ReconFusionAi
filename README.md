@@ -54,7 +54,7 @@ ollama pull qwen2.5:1.5b
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/ReconFusionAI.git
+git clone https://github.com/george1-adel/ReconFusionAI.git
 cd ReconFusionAI
 
 # Install Python dependencies
