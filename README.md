@@ -22,7 +22,7 @@ ReconFusionAI is an advanced security reconnaissance tool that combines massive 
 - **Contextual Fusion Scoring**: Doesn't just match regex; it understands *context* (e.g., "Is this API key in a config file or a comment?").
 - **False Positive Reduction**: AI filters out dummy data and example code.
 
-### ⚡ Advanced Capabilities
+### Advanced Capabilities
 - **Production Hardened**: Hardware monitoring (CPU/GPU auto-cooldown), Request Throttling, and Robust Error Handling.
 - **Efficient Caching**:
   - **AI Cache (SQLite)**: Reduces redundant LLM calls (1h TTL).
