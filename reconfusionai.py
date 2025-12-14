@@ -1187,7 +1187,7 @@ async def main():
     # Cleanup expired AI cache entries
     ai_cache.cleanup_expired()
     
-    print(f"\n{Colors.CYAN}{Colors.BOLD}ASSET HUNTER V3.1 (CONTEXTUAL FUSION - PRODUCTION){Colors.RESET}")
+    print(f"\n{Colors.CYAN}{Colors.BOLD}ASSET HUNTER V1 (CONTEXTUAL FUSION - PRODUCTION){Colors.RESET}")
     print(f"{Colors.CYAN} True Multi-Source Integration + Production Hardening{Colors.RESET}")
     print(f"{Colors.CYAN} LRU Cache | AI Cache (1h TTL) | Optimized Prompts | Enhanced Logging{Colors.RESET}\n")
 
