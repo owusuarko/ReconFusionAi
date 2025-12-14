@@ -54,7 +54,7 @@ ollama pull qwen2.5:1.5b
 
 ```bash
 # Clone repository
-git clone https://github.com/george1-adel/ReconFusionAI.git
+git clone https://github.com/YOUR_USERNAME/ReconFusionAI.git
 cd ReconFusionAI
 
 # Install Python dependencies
@@ -192,8 +192,6 @@ Reconnaissance data (no AI analysis):
 - Client-side vulnerabilities (innerHTML, eval, postMessage)
 
 ---
-### The Workflow
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/6125521b-2295-4842-96e0-c6065e7a7dfa" />
 
 ##  How It Works
 
@@ -282,7 +280,6 @@ Adjust thresholds in `config.json`:
 MIT License - See LICENSE file for details
 
 ---
-
 
 ##  Disclaimer
 
